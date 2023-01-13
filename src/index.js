@@ -71,7 +71,7 @@ function createMarkup(e) {
     
 }
 
-let a = 2;
+
 
 
 
